@@ -1,0 +1,5 @@
+git status: muestra el estado actual del repositorio, indicando archivos nuevos o modificados que no han sido confirmados. 
+git clone: clona un repositorio en tu github.
+git commit: guarda los cambios en el historial del repositorio con un mensaje descriptivo.
+git push: sube los commits locales al repositorio remoto en GitHub.
+git checkout: cambia entre ramas o restaura archivos a un estado anterior.
